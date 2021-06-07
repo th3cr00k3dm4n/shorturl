@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/MADE%20IN-INDIA-blue" > <img src="https://img.shields.io/badge/Language-shell-brightgreen">
 <h1>shorturl</h1>
 A url shortner for termux
 <h2>description</h2>
